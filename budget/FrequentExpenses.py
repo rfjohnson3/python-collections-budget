@@ -17,5 +17,6 @@ ax.bar(categories, count)
 ax.set_title('# of Purchases by Category')
 plt.show()
 
-
-
+divided_expenses_sum[]
+    for category_exps in divided_set_comp
+    
